@@ -1,0 +1,11 @@
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\bin\Debug\Enoteca-Cerioni.exe.config
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\bin\Debug\Enoteca-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\bin\Debug\Enoteca-Cerioni.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca-Cerioni.csprojAssemblyReference.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca_Cerioni.FrmMain.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca_Cerioni.FrmVino.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca_Cerioni.Properties.Resources.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca-Cerioni.csproj.GenerateResource.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca-Cerioni.csproj.CoreCompileInputs.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca-Cerioni.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\Enoteca-Cerioni\Enoteca-Cerioni\obj\Debug\Enoteca-Cerioni.pdb
